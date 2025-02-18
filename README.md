@@ -25,4 +25,4 @@ The comments should be self-explanatory, if not, talk to @5quidwyrm on the AKL s
     - Out -> -0.5
   The innesses are added up and divided by how many bigrams there are
 - Easy and hard bigrams:
-  - These are bigrams with travel distance of 2 standard deviations below and above the mean respectively.
+  - These are bigrams with travel distance of 1 standard deviation below and above the mean respectively.
