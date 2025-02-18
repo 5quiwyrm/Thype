@@ -14,7 +14,7 @@ def copysign(x, y):
 
 corpusname = "e10k"
 
-with open(f"{corpusname}.txt", 'r') as corpusfile:
+with open(f"{corpusname}.txt", 'r', encoding="utf-8") as corpusfile:
 	corpus = corpusfile.read()
 
 corpus = corpus.lower()
